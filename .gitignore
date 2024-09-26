@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#ignore files created by IDEA
+.idea
+out
